@@ -1,5 +1,6 @@
 # Matplotlib折线图绘制
 - 注：matplotlib不支持中文字体，但可以使用如下方法修改
+- 还有echarts，plotly等在线数据图形工具(很好看)
 ```python
 import matplotlib.pyplot as plt
 import matplotlib
